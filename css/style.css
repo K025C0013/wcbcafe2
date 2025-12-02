@@ -34,20 +34,17 @@ img{
 }
 
 .page-title,
-.heading-large,
-.heading-medium{
+.heading-large {
     font-size: 3rem;
     text-align: center;
 }
-.page-title{
+.page-title {
     margin-top: 2rem;
     line-height: 1.4;
 }
-
 .heading-large{
     margin-bottom: 1rem;
 }
-
 
 
 /*ボタン*/
