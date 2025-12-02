@@ -210,10 +210,11 @@ img{
         background-image: url(../images/cover-news-l.webp);
     }
 
-    .news-countents{
-        display: flex;
-        justify-content: space-between;
+    .news-contents {
+    display: flex;
+    justify-content: space-between;
     }
+
     .post {
         width: 70%;
     }
