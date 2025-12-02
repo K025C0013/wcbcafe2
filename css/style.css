@@ -172,6 +172,10 @@ img{
     padding: 1rem 0;
 }
 
+.post-title {
+    font-size: 2rem;
+}
+
 .copyright{
     background-color: #432;
     text-align: center;
@@ -190,6 +194,8 @@ img{
     .heading-large{
         font-size: 4rem;
     }
+
+
     /*ヘッダー*/
     .page-header{
         display: flex;
