@@ -233,3 +233,12 @@ img{
 .post-cat a:hover{
     background-color: #c9c2bc;
 }
+
+.post-thumbnail {
+    border-radius: 16px;
+    margin-bottom: 1.5rem;
+}
+.post p {
+    margin-bottom: 1.5rem;
+    line-height: 2;
+}
