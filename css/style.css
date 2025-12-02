@@ -34,7 +34,8 @@ img{
 }
 
 .page-title,
-.heading-large {
+.heading-large,
+.heading-mudium {
     font-size: 3rem;
     text-align: center;
 }
