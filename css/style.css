@@ -195,7 +195,6 @@ img{
         font-size: 4rem;
     }
 
-
     /*ヘッダー*/
     .page-header{
         display: flex;
@@ -204,6 +203,17 @@ img{
     }
     .main-nav{
         font-size: 2rem;
+    }
+
+    /* NEWS */
+    .cover-news{
+        background-image: url(../images/cover-news-l.webp);
+    }
+
+    /* ヘッダーカバー画像 */
+    .sub-cover{
+        height: 400px;
+        margin-bottom: 6rem;
     }
     
 }
